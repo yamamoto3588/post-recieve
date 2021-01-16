@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /home/private/git/post/post-recieve
+git --git-dir=.git pull
